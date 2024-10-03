@@ -1,1 +1,1 @@
-# Capability-Aware_and_Mid-Generation_Self-Evaluations
+# Capability-Aware and Mid-Generation Self-Evaluations
